@@ -1,8 +1,1 @@
-language: 
-php:
-  - "7.0"
- 
- 
-script:
-- php estudioq.php
 
