@@ -1,3 +1,3 @@
 <?php
-echo"Hola, desde el código de pruebita";
+echo"Hola, desde el código de pruebita h";
 ?>
